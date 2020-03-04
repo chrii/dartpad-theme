@@ -1,13 +1,10 @@
-# README
+# Dartpad look alike
+
 ## This is the README for your extension "dartpad-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a Theme which is inspired by the dartpad editor
+https://dartpad.dartlang.org/
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This is a really early version so please wait a little bit for a first beta version
 
-**Enjoy!**
+Thanks!
