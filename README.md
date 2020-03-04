@@ -1,8 +1,7 @@
-# Dartpad look alike
+# Unofficial Dartpad Theme
 
-## This is the README for your extension "dartpad-theme"
+## This is a Theme inspired by the dartpad editor from Dartlang:
 
-This is a Theme inspired by the dartpad editor from Dartlang:
 https://dartpad.dartlang.org/
 
 Note that this is a very early Verion so many things are open.
