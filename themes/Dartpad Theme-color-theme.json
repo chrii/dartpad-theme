@@ -223,6 +223,7 @@
       "name": "Variables and object properties",
       "scope": [
         "variable",
+        "variable",
         "constant.other.key.perl",
         "support.variable.property",
         "variable.other.constant.js",
@@ -251,7 +252,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#16ADCA"
+        "foreground": "#51C686"
       }
     },
     {
